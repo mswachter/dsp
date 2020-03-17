@@ -25,7 +25,7 @@ You can run bash (or terminal) commands right from the notebook!
 
 ### Running python in a Jupyter notebook  
 * Click on next gray cell and type the below.    
-`print("Hello, World!)`
+print("Hello, World!")
 * Run the cell by typing: `shift + return`
 
 ### Other Helpful Commands
