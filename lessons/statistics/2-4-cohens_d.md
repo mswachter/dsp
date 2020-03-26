@@ -2,7 +2,7 @@
 
 >> The difference between the standardized difference of means between the weight of first babies and the weight of other babies is -0.089, which is considered a large effect size. The difference between pregnancy length of first babies comapred to other babies is 0.02 which is considered a small effect size. 
 
-from __future__ import print_function
+'from __future__ import print_function
 
 import sys
 import os
@@ -42,4 +42,4 @@ other = others.totalwgt_lb
 CohenEffectSize(first,other)
 first_length = firsts.prglngth
 other_length = others.prglngth
-CohenEffectSize(first_length,other_length)
+CohenEffectSize(first_length,other_length)'
